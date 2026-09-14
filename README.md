@@ -77,9 +77,9 @@ Meu nome é Rafael rocha dos santos, tenho 16 anos e sou de São Paulo (Hortocit
 > _"be obsessed with knowing the unknown."_
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
-  <img alt="GitHub Streak" src="https://github.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.io">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.io">
+  <img alt="GitHub Streak" src="https://github.io">
 </picture>
 
 
