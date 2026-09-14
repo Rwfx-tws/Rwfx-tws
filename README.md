@@ -75,3 +75,5 @@ Meu nome é Rafael rocha dos santos, tenho 16 anos e sou de São Paulo (Hortocit
 ## 🚀 Philosophy
 
 > _"be obsessed with knowing the unknown."_
+
+![Animação da Cobrinha](https://githubusercontent.com)
