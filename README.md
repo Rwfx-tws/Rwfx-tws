@@ -17,19 +17,6 @@ Meu nome é Rafael rocha dos santos, tenho 16 anos e sou de São Paulo (Hortocit
 
 ---
 
-<p align="left">
-  <a href="https://github.com/Rwfx-tws">
-    <img src="https://img.shields.io/badge/GitHub-Rwfx_tws-181717?style=for-the-badge&logo=github" />
-  </a>          
-
-  <a href="https://www.instagram.com/rwfx_tws/">
-    <img src="https://img.shields.io/badge/Instagram-@Rwfx_tws-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-
 ## 🛠️ Learning
 
 ### Frontend
