@@ -76,7 +76,7 @@ Meu nome é Rafael rocha dos santos, tenho 16 anos e sou de São Paulo (Hortocit
 
 > _"be obsessed with knowing the unknown."_
 
-![](https://github.com)
+![snake gif](https://github.com/Rwfx-tws/Rwfx-tws/blob/output/github-snake-dark.svg)
 
 
 
