@@ -9,13 +9,15 @@ Meu nome é Rafael rocha dos santos, tenho 16 anos e sou de São Paulo (Hortocit
 <p align="left">
   <a href="https://github.com/Rwfx-tws">
     <img src="https://img.shields.io/badge/GitHub-Rwfx_tws-181717?style=for-the-badge&logo=github" />
-  </a>
+  </a>          
+
   <a href="https://www.instagram.com/rwfx_tws/">
     <img src="https://img.shields.io/badge/Instagram-@Rwfx_tws-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
+
 
 ## 🛠️ Learning
 
@@ -56,14 +58,17 @@ Meu nome é Rafael rocha dos santos, tenho 16 anos e sou de São Paulo (Hortocit
           
 ![Yy SQL]( https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rwfx-tws&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Rwfx-tws&include_all_commits=true&theme=tokyonight)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rwfx-tws&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Rwfx-tws&langs_count=4&theme=dark_github)
 
 ---
 
